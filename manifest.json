@@ -1,0 +1,9 @@
+{
+  "name": "Video Market",
+  "short_name": "VMarket",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Video-based ecommerce platform",
+  "icons": []
+}
