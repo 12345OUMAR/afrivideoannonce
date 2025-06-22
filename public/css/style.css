@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; }
+header { display: flex; justify-content: space-between; align-items: center; }
+.cards { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; }
+.card { border: 1px solid #ccc; padding: 10px; text-align: center; }
